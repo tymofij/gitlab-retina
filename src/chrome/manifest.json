@@ -1,0 +1,49 @@
+{
+  "author": "Tim Babych",
+  "description": "High-resolution project icons in GitLab",
+  "homepage_url": "https://github.com/tymofij/gitlab-retina",
+  "manifest_version": 2,
+  "name": "GitLab: Sharp avatars",
+  "version": "1.0.1",
+  "icons": {
+    "128": "diamond.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://0xacab.org/*",
+        "https://code.briarproject.org/*",
+        "https://code.videolan.org/*",
+        "https://dev.gajim.org/*",
+        "https://devel.trisquel.info/*",
+        "https://framagit.org/*",
+        "https://git.coop/*",
+        "https://git.feneas.org/*",
+        "https://git.fosscommunity.in/*",
+        "https://git.gnu.io/*",
+        "https://git.jami.net/*",
+        "https://git.linux-kernel.at/*",
+        "https://git.nzoss.org.nz/*",
+        "https://git.oeru.org/*",
+        "https://git.pleroma.social/*",
+        "https://git.silence.dev/*",
+        "https://gitgud.io/*",
+        "https://gitlab.com/*",
+        "https://gitlab.e.foundation/*",
+        "https://gitlab.freedesktop.org/*",
+        "https://gitlab.gnome.org/*",
+        "https://gitlab.haskell.org/*",
+        "https://gitlab.ii.coop/*",
+        "https://gitlab.zgtools.net/*",
+        "https://invent.kde.org/*",
+        "https://lab.libreho.st/*",
+        "https://salsa.debian.org/*",
+        "https://source.ind.ie/*",
+        "https://source.joinmastodon.org/*"
+      ],
+      "js": ["gitlab-retina.js"]
+    }
+  ]
+
+}

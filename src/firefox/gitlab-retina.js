@@ -1,0 +1,1 @@
+/Users/tymofiib/code/gitlab-retina/src/gitlab-retina.js
