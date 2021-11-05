@@ -11,7 +11,8 @@ Installation
 
 ### [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/gitlab-sharp-avatars/)
 
-Chrome addon is currently under review. To install it manually, use [`chrome://extensions`](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest), enable developer mode, and load directory `src/chrome`
+### [Chrome Web Store](https://chrome.google.com/webstore/detail/gitlab-sharp-avatars/dilgopjfchgkenadmoapgbcphcoejfff)
+
 
 Screenshot
 ----------
