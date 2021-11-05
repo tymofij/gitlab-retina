@@ -9,12 +9,9 @@ It finds project icons in gitlab pages, and provides browser with optional, high
 Installation
 ------------
 
-The extension is currently under review at Firefox and Chrome extension stores.
-Meanwhile, you can install it manually:
+### [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/gitlab-sharp-avatars/)
 
-For Firefox, use [`about:debugging#/runtime/this-firefox`](https://developer.mozilla.org/en-US/docs/Tools/about:debugging#this_firefox) and load manifest file `src/firefox/manifest.json`
-
-For Chrome, use [`chrome://extensions`](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest), enable developer mode, and load directory `src/chrome`
+Chrome addon is currently under review. To install it manually, use [`chrome://extensions`](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest), enable developer mode, and load directory `src/chrome`
 
 Screenshot
 ----------
