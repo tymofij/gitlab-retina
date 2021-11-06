@@ -5,11 +5,11 @@
       "id": "gitlab-retina@clear.com.ua"
     }
   },
-  "description": "High-resolution project icons in GitLab",
+  "description": "High-resolution project and user icons in GitLab",
   "homepage_url": "https://github.com/tymofij/gitlab-retina",
   "manifest_version": 2,
   "name": "GitLab: Sharp avatars",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icons": {
     "128": "diamond.svg"
   },
@@ -40,6 +40,7 @@
         "https://gitlab.gnome.org/*",
         "https://gitlab.haskell.org/*",
         "https://gitlab.ii.coop/*",
+        "https://gitlab.xfce.org/*",
         "https://gitlab.zgtools.net/*",
         "https://invent.kde.org/*",
         "https://lab.libreho.st/*",
