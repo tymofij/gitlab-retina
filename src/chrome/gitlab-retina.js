@@ -4,7 +4,7 @@
 
 function sharpenAvatars() {
   const widthRegex = /width=(\d+)/
-  let avatars = document.querySelectorAll("img.avatar,img.avatar-tile");
+  let avatars = document.querySelectorAll("img.avatar,img.avatar-tile,img.gl-avatar,img.gl-avatar-circle,img.gl-avatar-s32");
   avatars.forEach(elem => {
     matched = widthRegex.exec(elem.src)
     if (matched) {

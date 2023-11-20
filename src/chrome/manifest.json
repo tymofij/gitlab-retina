@@ -4,7 +4,7 @@
   "homepage_url": "https://github.com/tymofij/gitlab-retina",
   "manifest_version": 3,
   "name": "GitLab: Sharp avatars",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icons": {
     "128": "diamond.png"
   },
